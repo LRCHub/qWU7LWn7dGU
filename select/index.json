@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ようこそジャパリパークへ",
+  "base_artist": "どうぶつビスケッツ×PPP",
+  "createdAt": "2025-12-20T10:30:53.261123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ ～orgel ver.～",
+      "artist": "Akiyuki Tateyama",
+      "has_synced": false,
+      "path": "select/01_ようこそジャパリパークへ_~orgel_ver.~_Akiyuki_Tateyama.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ",
+      "artist": "Doubutsu Biscuits",
+      "has_synced": true,
+      "path": "select/02_ようこそジャパリパークへ_Doubutsu_Biscuits.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ",
+      "artist": "Doubutsu Biscuits x PPP",
+      "has_synced": true,
+      "path": "select/03_ようこそジャパリパークへ_Doubutsu_Biscuits_x_PPP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ",
+      "artist": "Doubutsu Biscuits, PPP",
+      "has_synced": false,
+      "path": "select/04_ようこそジャパリパークへ_Doubutsu_Biscuits,_PPP.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ",
+      "artist": "どうぶつビスケッツ",
+      "has_synced": true,
+      "path": "select/05_ようこそジャパリパークへ_どうぶつビスケッツ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ（with かばん）",
+      "artist": "どうぶつビスケッツ",
+      "has_synced": true,
+      "path": "select/06_ようこそジャパリパークへ(with_かばん)_どうぶつビスケッツ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ",
+      "artist": "PPP",
+      "has_synced": true,
+      "path": "select/07_ようこそジャパリパークへ_PPP.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ(作詞賞)",
+      "artist": "どうぶつビスケッツ×PPP",
+      "has_synced": true,
+      "path": "select/08_ようこそジャパリパークへ(作詞賞)_どうぶつビスケッツ×PPP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ",
+      "artist": "どうぶつビスケッツ×PPP",
+      "has_synced": true,
+      "path": "select/09_ようこそジャパリパークへ_どうぶつビスケッツ×PPP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ (Cover)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/10_ようこそジャパリパークへ_(Cover)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ (PPP ver.)",
+      "artist": "どうぶつビスケッツ (尾崎由香, 本宮佳奈, 小野早稀) x PPP (佐々木未来, 根本流風, 田村響華, 相羽あいな, 築田行子)",
+      "has_synced": true,
+      "path": "select/11_ようこそジャパリパークへ_(PPP_ver.)_どうぶつビスケッツ_(尾崎由香,_本宮佳奈,_小野早稀)_x_PPP_(佐々木未来,_根本流風,_田村響華,_相羽あいな,_築田行子).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ",
+      "artist": "どうぶつビスケッツ (尾崎由香, 本宮佳奈, 小野早稀) x PPP (佐々木未来, 根本流風, 田村響華, 相羽あいな, 築田行子)",
+      "has_synced": true,
+      "path": "select/12_ようこそジャパリパークへ_どうぶつビスケッツ_(尾崎由香,_本宮佳奈,_小野早稀)_x_PPP_(佐々木未来,_根本流風,_田村響華,_相羽あいな,_築田行子).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ",
+      "artist": "どうぶつビスケッツ x PPP",
+      "has_synced": true,
+      "path": "select/13_ようこそジャパリパークへ_どうぶつビスケッツ_x_PPP.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ (サーバル ver.)",
+      "artist": "どうぶつビスケッツ×PPP",
+      "has_synced": true,
+      "path": "select/14_ようこそジャパリパークへ_(サーバル_ver.)_どうぶつビスケッツ×PPP.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ようこそジャパリパークへ（イワビー ver.）",
+      "artist": "PPP",
+      "has_synced": true,
+      "path": "select/15_ようこそジャパリパークへ(イワビー_ver.)_PPP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ようこそジャパリパークへ",
+      "artist": "どうぶつビスケッツ×PPP",
+      "has_synced": false,
+      "path": "select/pl_01_ようこそジャパリパークへ_どうぶつビスケッツ×PPP.txt"
+    }
+  ]
+}
